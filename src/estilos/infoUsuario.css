@@ -1,0 +1,18 @@
+.listaUsuarios{
+    margin-bottom: 10px;
+    padding: 10px;
+    cursor: pointer;
+    border-bottom-style: solid;
+    border-bottom-width:0,1mm;
+    border-bottom-color: #7baf8d;
+}
+
+.info_usuario{
+    display: flex;
+    align-items: center;
+}
+
+.info_usuario h4{
+    margin-left: 10px;
+}
+

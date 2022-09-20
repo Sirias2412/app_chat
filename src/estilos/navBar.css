@@ -1,0 +1,18 @@
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 70px;
+    padding: 0px 20px;
+    background-color: #7baf8d;
+    border-bottom: 1px solid #D5D7CC;
+}
+
+nav a,h1{
+    color: white;
+    text-decoration: none;
+}
+
+nav div a{
+    margin-right: 20px;
+}
